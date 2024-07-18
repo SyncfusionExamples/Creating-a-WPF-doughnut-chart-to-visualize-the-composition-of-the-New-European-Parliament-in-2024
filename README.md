@@ -14,4 +14,4 @@ This article explains composition of the European Parliament based on provisiona
 Troubleshooting
 Path too long exception
 If you are facing path too long exception when building this example project, close Visual Studio and rename the repository to short and build the project.
-For a step-by-step procedure, refer to the  [European Parliament Blog .]()
+For a step-by-step procedure, refer to the  [European Parliament Blog .](https://www.syncfusion.com/blogs/post/wpf-doughnut-chart-europe-parliament)
